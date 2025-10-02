@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <GameFiles> 
+  <File name="components.json" size="1443" sha256="4256f15948f23118dc9bbd6e350976513880cf495e931e81568759f5d1f4dc30" /> 
   <File name="asi-five.dll" size="195072" sha256="da2b5b0ea7c9827a5f3474a96910ca1d11ca140c1898ea36f2424e1df4dbf04c" /> 
   <File name="botan.dll" size="4490240" sha256="ec22ad6c56b2dd2dae69d5234a0573eebad36750ccce91c4ec2c26ff5a13a1c6" /> 
   <File name="cfx_curl_x86_64.dll" size="2451456" sha256="ca15125d12c6bb8873c85ff92d7d4ba0a46ecdf0b1d2a7e0b94875e3a2dfc09b" /> 
